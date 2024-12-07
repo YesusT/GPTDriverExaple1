@@ -1,0 +1,157 @@
+
+Flattening functions:
+Overall time estimate: 0.000000 weighted by profile: 0.000000
+
+Deciding on inlining of small functions.  Starting with size 0.
+node context cache: 0 hits, 0 misses, 0 initializations
+
+Reclaiming functions:
+Reclaiming variables:
+Clearing address taken flags:
+
+Deciding on functions to be inlined into all callers and removing useless speculations:
+Overall time estimate: 0.000000 weighted by profile: 0.000000
+
+Why inlining failed?
+Symbol table:
+
+Clock_Ip_aeHwDfsName/19 (Clock_Ip_aeHwDfsName) @06bcb000
+  Type: variable definition analyzed
+  Visibility: force_output externally_visible no_reorder public
+  References: 
+  Referring: 
+  Availability: available
+  Varpool flags: initialized read-only const-value-known
+Clock_Ip_aeHwPllName/18 (Clock_Ip_aeHwPllName) @06afcf30
+  Type: variable definition analyzed
+  Visibility: force_output externally_visible no_reorder public
+  References: 
+  Referring: 
+  Availability: available
+  Varpool flags: initialized read-only const-value-known
+Clock_Ip_aeSourceTypeClockName/17 (Clock_Ip_aeSourceTypeClockName) @06afcea0
+  Type: variable definition analyzed
+  Visibility: force_output externally_visible no_reorder public
+  References: 
+  Referring: 
+  Availability: available
+  Varpool flags: initialized read-only const-value-known
+Clock_Ip_apxScgPeriphAsyncDivs/16 (Clock_Ip_apxScgPeriphAsyncDivs) @06afccf0
+  Type: variable definition analyzed
+  Visibility: force_output externally_visible no_reorder public
+  References: 
+  Referring: 
+  Availability: available
+  Varpool flags: initialized read-only const-value-known
+Clock_Ip_au8DividerValueHardwareValue/15 (Clock_Ip_au8DividerValueHardwareValue) @06afcc60
+  Type: variable definition analyzed
+  Visibility: force_output externally_visible no_reorder public
+  References: 
+  Referring: 
+  Availability: available
+  Varpool flags: initialized read-only const-value-known
+Clock_Ip_au8SelectorEntrySIMHardwareValue/14 (Clock_Ip_au8SelectorEntrySIMHardwareValue) @06afcbd0
+  Type: variable definition analyzed
+  Visibility: force_output externally_visible no_reorder public
+  References: 
+  Referring: 
+  Availability: available
+  Varpool flags: initialized read-only const-value-known
+Clock_Ip_au8SelectorEntryPcsHardwareValue/13 (Clock_Ip_au8SelectorEntryPcsHardwareValue) @06afcb40
+  Type: variable definition analyzed
+  Visibility: force_output externally_visible no_reorder public
+  References: 
+  Referring: 
+  Availability: available
+  Varpool flags: initialized read-only const-value-known
+Clock_Ip_au8SelectorEntryScsHardwareValue/12 (Clock_Ip_au8SelectorEntryScsHardwareValue) @06afcab0
+  Type: variable definition analyzed
+  Visibility: force_output externally_visible no_reorder public
+  References: 
+  Referring: 
+  Availability: available
+  Varpool flags: initialized read-only const-value-known
+Clock_Ip_au16SelectorEntryHardwareValue/11 (Clock_Ip_au16SelectorEntryHardwareValue) @06afca20
+  Type: variable definition analyzed
+  Visibility: force_output externally_visible no_reorder public
+  References: 
+  Referring: 
+  Availability: available
+  Varpool flags: initialized read-only const-value-known
+Clock_Ip_au8ClockFeatures/10 (Clock_Ip_au8ClockFeatures) @06979c60
+  Type: variable definition analyzed
+  Visibility: force_output externally_visible no_reorder public
+  References: 
+  Referring: 
+  Availability: available
+  Varpool flags: initialized read-only const-value-known
+Clock_Ip_au8CmuCallbackIndex/9 (Clock_Ip_au8CmuCallbackIndex) @06afcf78
+  Type: variable definition analyzed
+  Visibility: force_output externally_visible no_reorder public
+  References: 
+  Referring: 
+  Availability: available
+  Varpool flags: initialized read-only const-value-known
+Clock_Ip_au8PcfsCallbackIndex/8 (Clock_Ip_au8PcfsCallbackIndex) @06afcee8
+  Type: variable definition analyzed
+  Visibility: force_output externally_visible no_reorder public
+  References: 
+  Referring: 
+  Availability: available
+  Varpool flags: initialized read-only const-value-known
+Clock_Ip_au8SelectorCallbackIndex/7 (Clock_Ip_au8SelectorCallbackIndex) @06afce58
+  Type: variable definition analyzed
+  Visibility: force_output externally_visible no_reorder public
+  References: 
+  Referring: 
+  Availability: available
+  Varpool flags: initialized read-only const-value-known
+Clock_Ip_au8PllCallbackIndex/6 (Clock_Ip_au8PllCallbackIndex) @06afcdc8
+  Type: variable definition analyzed
+  Visibility: force_output externally_visible no_reorder public
+  References: 
+  Referring: 
+  Availability: available
+  Varpool flags: initialized read-only const-value-known
+Clock_Ip_au8FractionalDividerCallbackIndex/5 (Clock_Ip_au8FractionalDividerCallbackIndex) @06afcd38
+  Type: variable definition analyzed
+  Visibility: force_output externally_visible no_reorder public
+  References: 
+  Referring: 
+  Availability: available
+  Varpool flags: initialized read-only const-value-known
+Clock_Ip_au8GateCallbackIndex/4 (Clock_Ip_au8GateCallbackIndex) @06afcca8
+  Type: variable definition analyzed
+  Visibility: force_output externally_visible no_reorder public
+  References: 
+  Referring: 
+  Availability: available
+  Varpool flags: initialized read-only const-value-known
+Clock_Ip_au8IrcoscCallbackIndex/3 (Clock_Ip_au8IrcoscCallbackIndex) @06afcc18
+  Type: variable definition analyzed
+  Visibility: force_output externally_visible no_reorder public
+  References: 
+  Referring: 
+  Availability: available
+  Varpool flags: initialized read-only const-value-known
+Clock_Ip_au8XoscCallbackIndex/2 (Clock_Ip_au8XoscCallbackIndex) @06afcb88
+  Type: variable definition analyzed
+  Visibility: force_output externally_visible no_reorder public
+  References: 
+  Referring: 
+  Availability: available
+  Varpool flags: initialized read-only const-value-known
+Clock_Ip_au8DividerTriggerCallbackIndex/1 (Clock_Ip_au8DividerTriggerCallbackIndex) @06afcaf8
+  Type: variable definition analyzed
+  Visibility: force_output externally_visible no_reorder public
+  References: 
+  Referring: 
+  Availability: available
+  Varpool flags: initialized read-only const-value-known
+Clock_Ip_au8DividerCallbackIndex/0 (Clock_Ip_au8DividerCallbackIndex) @06afca68
+  Type: variable definition analyzed
+  Visibility: force_output externally_visible no_reorder public
+  References: 
+  Referring: 
+  Availability: available
+  Varpool flags: initialized read-only const-value-known
